@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43d2af8cdadf33141a394fd57d491f25, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  standard: {fileID: 7799039066367988868, guid: 7b7aae83fe9c8d94493ebc895532a42f, type: 3}
+  water: {fileID: 3870380980580946553, guid: e99e6af0dd0f5ea4ebe96ce89d36252f, type: 3}
+  grass: {fileID: 3656009263642497615, guid: 1f1fd34c23a528f49b126b8d337cf9c7, type: 3}
